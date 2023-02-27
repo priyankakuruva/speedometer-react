@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: black;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.heading {
+  font-size: 35px;
+  color: white;
+  font-family: 'Roboto';
+}
+.img {
+  width: 500px;
+  height: 200px;
+}
+.sub-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #cbd5e1;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+.button-1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: 0;
+  margin-right: 20px;
+  height: 30px;
+  width: 100px;
+  padding: 2px;
+}
+.button-2 {
+  background-color: transparent;
+  border: 1px solid #94a3b8;
+  color: #94a3b8;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  padding: 2px;
+}
